@@ -1,0 +1,38 @@
+body{
+    background-image:cover;
+    text-align: center;
+
+}
+
+.heading{
+    font-size: 26px;
+    font-weight: bold;
+
+}
+
+
+.copy_right_footer{
+   font-size: 18;
+   box-shadow: 5px 5px 5px grey;
+   margin-bottom: 50px;
+
+}
+
+.note{
+    font-size: 19px;
+    
+}
+
+canvas{
+    box-shadow: 5px 5px 5px grey;
+    width: 600px;
+    height: 550px;
+    background-color: white;
+    
+}
+#Webcam{
+    width: 600;
+    height: 550;
+    
+
+}
